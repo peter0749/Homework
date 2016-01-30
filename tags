@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MAX	a121_prime.c	3;"	d	file:
+MAX	bool.c	4;"	d	file:
+bit_map	kingc.c	/^int bit_map[671100]={0};$/;"	v
+bit_map	make_prime.c	/^int bit_map[671100]={0},prime[600000]={0};$/;"	v
+count_prime	a121_prime.c	/^void count_prime(int a, int b)$/;"	f	signature:(int a, int b)
+count_prime	a121_prime.c	/^void count_prime(int, int);$/;"	p	file:	signature:(int, int)
+count_prime	bool.c	/^void count_prime(int a, int b)$/;"	f	signature:(int a, int b)
+count_prime	bool.c	/^void count_prime(int, int);$/;"	p	file:	signature:(int, int)
+is_prime	kingc.c	/^int is_prime(int input){$/;"	f	signature:(int input)
+is_prime	kingc.c	/^int is_prime(int);$/;"	p	file:	signature:(int)
+is_prime	make_prime.c	/^int is_prime(int input){$/;"	f	signature:(int input)
+is_prime	make_prime.c	/^int is_prime(int);$/;"	p	file:	signature:(int)
+main	Relational_Operators.c	/^int main(void)$/;"	f	signature:(void)
+main	a121_prime.c	/^int main(void)$/;"	f	signature:(void)
+main	a414.c	/^int main(void)$/;"	f	signature:(void)
+main	a700.c	/^int main(void)$/;"	f	signature:(void)
+main	a700_2.c	/^int main(void)$/;"	f	signature:(void)
+main	bool.c	/^int main(void)$/;"	f	signature:(void)
+main	d235.c	/^int main(void)$/;"	f	signature:(void)
+main	kingc.c	/^int main(){$/;"	f
+main	kingsprime.c	/^int main(void)$/;"	f	signature:(void)
+main	make_prime.c	/^int main(){$/;"	f
+main	primesum.c	/^int main(void)$/;"	f	signature:(void)
+main	recursive.c	/^int main(void)$/;"	f	signature:(void)
+main	toN.c	/^int main(void)$/;"	f	signature:(void)
+main	toN2.c	/^int main(void)$/;"	f	signature:(void)
+make_prime	kingc.c	/^void make_prime(void);$/;"	p	file:	signature:(void)
+make_prime	kingc.c	/^void make_prime(void){$/;"	f	signature:(void)
+make_prime	make_prime.c	/^void make_prime(void);$/;"	p	file:	signature:(void)
+make_prime	make_prime.c	/^void make_prime(void){$/;"	f	signature:(void)
+mk_prime	a121_prime.c	/^void mk_prime(void)$/;"	f	signature:(void)
+mk_prime	a121_prime.c	/^void mk_prime(void);$/;"	p	file:	signature:(void)
+mk_prime	bool.c	/^void mk_prime(void)$/;"	f	signature:(void)
+mk_prime	bool.c	/^void mk_prime(void);$/;"	p	file:	signature:(void)
+nums	a121_prime.c	/^int nums[MAX]= {0};$/;"	v
+nums	bool.c	/^bool nums[MAX]= {false};$/;"	v
+prime	make_prime.c	/^int bit_map[671100]={0},prime[600000]={0};$/;"	v

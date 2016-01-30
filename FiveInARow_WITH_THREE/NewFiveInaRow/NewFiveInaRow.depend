@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1450604476 source:c:\users\kujeng\desktop\newfiveinarow\main.c
+	"global.h"
+	"condition.h"
+	"game_ui.h"
+	"game_itself.h"
+	"main_menu.h"
+	"recorder.h"
+
+1450604406 c:\users\kujeng\desktop\newfiveinarow\global.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1450604406 c:\users\kujeng\desktop\newfiveinarow\condition.h
+
+1450605261 c:\users\kujeng\desktop\newfiveinarow\game_ui.h
+
+1450604406 c:\users\kujeng\desktop\newfiveinarow\game_itself.h
+
+1450604406 c:\users\kujeng\desktop\newfiveinarow\main_menu.h
+
+1450604406 c:\users\kujeng\desktop\newfiveinarow\recorder.h
+
+1450604476 source:c:\users\kujeng\downloads\404410030_ce9d1e (16)\fiveinarow_404410030_update\newfiveinarow\main.c
+	"global.h"
+	"condition.h"
+	"game_ui.h"
+	"game_itself.h"
+	"main_menu.h"
+	"recorder.h"
+
+1450604406 c:\users\kujeng\downloads\404410030_ce9d1e (16)\fiveinarow_404410030_update\newfiveinarow\global.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1450604406 c:\users\kujeng\downloads\404410030_ce9d1e (16)\fiveinarow_404410030_update\newfiveinarow\condition.h
+
+1450605261 c:\users\kujeng\downloads\404410030_ce9d1e (16)\fiveinarow_404410030_update\newfiveinarow\game_ui.h
+
+1450604406 c:\users\kujeng\downloads\404410030_ce9d1e (16)\fiveinarow_404410030_update\newfiveinarow\game_itself.h
+
+1450604406 c:\users\kujeng\downloads\404410030_ce9d1e (16)\fiveinarow_404410030_update\newfiveinarow\main_menu.h
+
+1450604406 c:\users\kujeng\downloads\404410030_ce9d1e (16)\fiveinarow_404410030_update\newfiveinarow\recorder.h
+
+1450616766 source:c:\users\kujeng\downloads\404410030_ce9d1e (17)\fiveinarow_404410030_update\newfiveinarow\main.c
+	"global.h"
+	"condition.h"
+	"game_ui.h"
+	"game_itself.h"
+	"main_menu.h"
+	"difficulty_menu.h"
+	"recorder.h"
+
+1450604406 c:\users\kujeng\downloads\404410030_ce9d1e (17)\fiveinarow_404410030_update\newfiveinarow\global.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1450624336 c:\users\kujeng\downloads\404410030_ce9d1e (17)\fiveinarow_404410030_update\newfiveinarow\condition.h
+
+1450616766 c:\users\kujeng\downloads\404410030_ce9d1e (17)\fiveinarow_404410030_update\newfiveinarow\game_ui.h
+
+1450623012 c:\users\kujeng\downloads\404410030_ce9d1e (17)\fiveinarow_404410030_update\newfiveinarow\game_itself.h
+
+1450616766 c:\users\kujeng\downloads\404410030_ce9d1e (17)\fiveinarow_404410030_update\newfiveinarow\main_menu.h
+
+1450620032 c:\users\kujeng\downloads\404410030_ce9d1e (17)\fiveinarow_404410030_update\newfiveinarow\difficulty_menu.h
+
+1450604406 c:\users\kujeng\downloads\404410030_ce9d1e (17)\fiveinarow_404410030_update\newfiveinarow\recorder.h
+
+1450616766 source:c:\users\kujeng\downloads\404410030_ce9d1e (19)\fiveinarow_404410030_i_want_final\newfiveinarow\main.c
+	"global.h"
+	"condition.h"
+	"game_ui.h"
+	"game_itself.h"
+	"main_menu.h"
+	"difficulty_menu.h"
+	"recorder.h"
+
+1450604406 c:\users\kujeng\downloads\404410030_ce9d1e (19)\fiveinarow_404410030_i_want_final\newfiveinarow\global.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1450682218 c:\users\kujeng\downloads\404410030_ce9d1e (19)\fiveinarow_404410030_i_want_final\newfiveinarow\condition.h
+
+1450616766 c:\users\kujeng\downloads\404410030_ce9d1e (19)\fiveinarow_404410030_i_want_final\newfiveinarow\game_ui.h
+
+1450673754 c:\users\kujeng\downloads\404410030_ce9d1e (19)\fiveinarow_404410030_i_want_final\newfiveinarow\game_itself.h
+
+1450616766 c:\users\kujeng\downloads\404410030_ce9d1e (19)\fiveinarow_404410030_i_want_final\newfiveinarow\main_menu.h
+
+1450620032 c:\users\kujeng\downloads\404410030_ce9d1e (19)\fiveinarow_404410030_i_want_final\newfiveinarow\difficulty_menu.h
+
+1450604406 c:\users\kujeng\downloads\404410030_ce9d1e (19)\fiveinarow_404410030_i_want_final\newfiveinarow\recorder.h
+

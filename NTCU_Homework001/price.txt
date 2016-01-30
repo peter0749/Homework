@@ -1,0 +1,12 @@
+# product name, unit price, unit sold, total money
+Sort by Weight:
+apple 1.25 944.23 1180.29
+orange 1.20 506.21 607.45
+grape 2.25 393.50 885.38
+cherry 4.25 234.56 996.88
+
+Sort by Total:
+apple 1.25 944.23 1180.29
+cherry 4.25 234.56 996.88
+grape 2.25 393.50 885.38
+orange 1.20 506.21 607.45

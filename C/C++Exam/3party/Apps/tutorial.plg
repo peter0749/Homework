@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: tutorial - Win32 Debug--------------------
+</h3>
+
+
+Microsoft (R) Program Maintenance Utility   Version 6.00.8168.0
+Copyright (C) Microsoft Corp 1988-1998. All rights reserved.
+
+ cd apputil
+系統找不到指定的路徑。
+NMAKE : fatal error U1077: 'echo' : return code '0x1'
+Stop.
+Error executing NMAKE.
+
+
+
+<h3>Results</h3>
+tutorial.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
